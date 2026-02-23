@@ -2,9 +2,14 @@
 This is my assignment repository for PROG72370. It's a queue program using linked lists. Each node in this program holds a game user with a username, level(1-60), and faction(red, blue, green).
 
 # Files
-I used 3 files in this program to make my code well structure and to increase the readbility. Names of the files are:
+I used 3 files in this program to make my code well structure and to increase the readbility. 
+
+Names of those files are:
+
 main.c- runs everything, takes nummber from command line
+
 queue.h- has all the structs and function prototypes
+
 queue.c- actual queue functions (enqueue, dequeue, etc.)
 
 # How it works:
