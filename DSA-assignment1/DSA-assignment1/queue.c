@@ -14,7 +14,7 @@ void InitQueue(Queue* q)
     q->pTail = NULL;
 }
 
-// Check if queue is empty, it return 1 if empty 0 if not
+// Checking if the queue is empty, it return 1 if empty 0 if not
 int IsQueueEmpty(const Queue* q)
 {
     if (q == NULL) return 1;
