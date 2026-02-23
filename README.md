@@ -23,7 +23,9 @@ queue.c- actual queue functions (enqueue, dequeue, etc.)
 
 # Stuff I learned:
 
+
 -Head and tail make queue fast
+
 
 -I have to free memory or code might crash
 
