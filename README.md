@@ -24,10 +24,10 @@ queue.c- actual queue functions (enqueue, dequeue, etc.)
 # Stuff I learned:
 
 
--Head and tail make queue fast
+- Head and tail make queue fast
 
 
--I have to free memory or code might crash
+- I have to free memory or code might crash
 
 - Random needs srand or you will get the same numbers every time
   
